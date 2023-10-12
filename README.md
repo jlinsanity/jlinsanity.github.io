@@ -1,15 +1,11 @@
-# jlinsanity.github.io
-VOO project website
+# VOO project website
+Created by Jasper Lin
 
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
+## VOO Tracker
 
-## Horizontal Rules
 
-__
+
+## Table data
 
 ## Emphasis
 
